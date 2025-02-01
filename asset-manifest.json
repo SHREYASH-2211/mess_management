@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/github.io/mess_management/static/css/main.fb28c8df.css",
+    "main.js": "/github.io/mess_management/static/js/main.9948b8cd.js",
+    "static/js/373.1e54868a.chunk.js": "/github.io/mess_management/static/js/373.1e54868a.chunk.js",
+    "static/media/background.png": "/github.io/mess_management/static/media/background.57f9c139111d307fddf0.png",
+    "static/media/product4.jpg": "/github.io/mess_management/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/github.io/mess_management/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/portfolio.jpg": "/github.io/mess_management/static/media/portfolio.37317f30bbee54e203b3.jpg",
+    "static/media/avatar1.jpeg": "/github.io/mess_management/static/media/avatar1.d37df0395195993244c9.jpeg",
+    "static/media/vadapav.png": "/github.io/mess_management/static/media/vadapav.2a71322ac9e0562f8742.png",
+    "static/media/product3.jpg": "/github.io/mess_management/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/github.io/mess_management/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/FoodYummy.png": "/github.io/mess_management/static/media/FoodYummy.eca964d07befd44f103a.png",
+    "static/media/HeroDesign.png": "/github.io/mess_management/static/media/HeroDesign.70d4607cd228844ffa52.png",
+    "static/media/noodles.webp": "/github.io/mess_management/static/media/noodles.9e5be55afcef1c5cdb57.webp",
+    "static/media/poha.webp": "/github.io/mess_management/static/media/poha.2752a4a1d6d20006e019.webp",
+    "static/media/rice.webp": "/github.io/mess_management/static/media/rice.eefebdb1c25bdc077e9a.webp",
+    "static/media/pastry.webp": "/github.io/mess_management/static/media/pastry.1aba696d5eed3c532c52.webp",
+    "static/media/puff.webp": "/github.io/mess_management/static/media/puff.c3073189b3ea9c34bc73.webp",
+    "static/media/idli.webp": "/github.io/mess_management/static/media/idli.e01f3ae81be5d91fc0bf.webp",
+    "static/media/icecream.webp": "/github.io/mess_management/static/media/icecream.3bbf7744bdb7fba53396.webp",
+    "index.html": "/github.io/mess_management/index.html",
+    "main.fb28c8df.css.map": "/github.io/mess_management/static/css/main.fb28c8df.css.map",
+    "main.9948b8cd.js.map": "/github.io/mess_management/static/js/main.9948b8cd.js.map",
+    "373.1e54868a.chunk.js.map": "/github.io/mess_management/static/js/373.1e54868a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb28c8df.css",
+    "static/js/main.9948b8cd.js"
+  ]
+}

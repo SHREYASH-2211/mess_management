@@ -2,15 +2,15 @@ import React, { useEffect } from "react";
 import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import Navbar from "../components/Navbar";
-import Newsletter from "../components/Newsletter";
+// import Newsletter from "../components/Newsletter";
 import Portfolio from "../components/Portfolio";
 import Products from "../components/Products";
 import ScrollToTop from "../components/ScrollToTop";
 import Services from "../components/Services";
 import Testimonials from "../components/Testimonials";
 import scrollreveal from "scrollreveal";
-import ShoppingCart from "../components/shoppingcart";
-import Mess from "../components/Timepass/MessStaffTools";
+// import ShoppingCart from "../components/shoppingcart";
+// import Mess from "../components/Timepass/MessStaffTools";
 // import Login from "../login/login";
 
 export default function Home() {
@@ -48,10 +48,9 @@ export default function Home() {
       <Portfolio />
       <Testimonials />
       <Products />
-      <Newsletter />
       <Footer />
-      <ShoppingCart />
-      <Mess />
+      {/* <ShoppingCart /> */}
+      {/* <Mess /> */}
     </>
   );
 }

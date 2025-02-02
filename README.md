@@ -1,4 +1,3 @@
-# lawLink
 
 ## Project Setup
 

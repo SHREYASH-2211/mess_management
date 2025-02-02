@@ -1,3 +1,8 @@
+## Deployment
+
+You can access the deployed project at:
+
+[Live Demo](https://fabulous-cupcake-01d805.netlify.app/)
 
 ## Project Setup
 
@@ -39,5 +44,5 @@ To start the development server, run:
 npm start
 ```
 
-The project will be available at `http://localhost:3000/`. 
+The project will be available at `http://localhost:3000/`.
 

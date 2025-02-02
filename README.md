@@ -2,7 +2,7 @@
 
 You can access the deployed project at:
 
-[Live Demo]([https://fabulous-cupcake-01d805.netlify.app/](https://messmate4u.netlify.app/))
+[Live Demo](https://messmate4u.netlify.app/)
 
 ## Project Setup
 

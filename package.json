@@ -1,6 +1,4 @@
-{
-
-  "name": "mess_management",
+{"name": "mess_management",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

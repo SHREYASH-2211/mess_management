@@ -1,6 +1,9 @@
 import React from "react";
 import styled from "styled-components";
-import avatar1 from "../assets/avatar1.jpeg";
+import avatar1 from "../assets/avatar1.jpg";
+import avatar2 from "../assets/avatar2.jpeg";
+import avatar3 from "../assets/avatar3.jpeg";
+
 import { imageZoomEffect, TitleStyles } from "./ReusableStyles";
 export default function Testimonials() {
   return (
@@ -17,26 +20,23 @@ export default function Testimonials() {
               <img src={avatar1} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            The food quality has improved a lot! Tasty meals with good variety every day."
             </p>
           </div>
           <div className="testimonial">
             <div className="image">
-              <img src={avatar1} alt="" />
+              <img src={avatar2} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            Great place to relax with friends. The snacks are fresh, and the service is friendly!
             </p>
           </div>
           <div className="testimonial">
             <div className="image">
-              <img src={avatar1} alt="" />
+              <img src={avatar3} alt="" />
             </div>
             <p>
-              He Printing and Typesetting the industry. <span>Lorem Ipsum</span>{" "}
-              has been the Industry's
+            Delicious and affordable! Love the hygiene and the availability of healthy options.
             </p>
           </div>
         </div>
@@ -88,14 +88,20 @@ const Section = styled.section`
         }
         ${imageZoomEffect};
         .image {
-          overflow: hidden;
-          width: max-content;
-          max-height: 10rem;
-          border-radius: 10rem;
-          img {
-            height: 10rem;
-          }
-        }
+        width: 10rem; 
+        height: 10rem; 
+        border-radius: 50%; 
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+      .image img {
+        width: 100%; 
+        height: 100%;
+        object-fit: cover; 
+      }
+
       }
     }
   }

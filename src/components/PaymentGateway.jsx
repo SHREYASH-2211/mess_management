@@ -17,11 +17,11 @@ const PaymentGateway = ({ totalAmount, onPaymentComplete }) => {
     await new Promise((resolve) => setTimeout(resolve, 2000));
 
     // Generate a fake transaction ID
-    const transactionId = Math.random().toString(36).substr(2, 9);
+    // const transactionId = Math.random().toString(36).substr(2, 9);
 
     setIsProcessing(false);
     setIsPaid(true);
-    onPaymentComplete(transactionId);
+    // onPaymentComplete(transactionId);
   };
 
   return (

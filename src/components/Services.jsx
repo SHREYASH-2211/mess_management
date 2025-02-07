@@ -18,24 +18,24 @@ export default function Services() {
           <img src={Services2} alt="" />
           <p>
             
-          Smart & Hassle-Free Ordering
-          Students and staff can easily browse menus, view "Today's Special," and place orders with real-time payment integration for a smooth dining experience.
+          <b>Smart & Hassle-Free Ordering</b>
+          <p>Students and staff can easily browse menus, view "Today's Special," and place orders with real-time payment integration for a smooth dining experience.</p>
           </p>
           <button>Read More</button>
         </div>
         <div className="service yellow">
           <img src={Services1} alt="" />
           <p>
-          Quality & Trusted Partnerships
-          We collaborate with top brands like Amul Ice Creams, WIBS Bread, and local vegetable vendors to ensure fresh, high-quality ingredients and diverse food options daily.
+          <b>Quality & Trusted Partnerships</b>
+          <p>We collaborate with top brands like Amul Ice Creams, WIBS Bread, and local vegetable vendors to ensure fresh, high-quality ingredients and diverse food options daily.</p>
           </p>
           <button>Read More</button>
         </div>
         <div className="service">
           <img src={Services3} alt="" />
           <p>
-          Efficient Mess & Canteen Management
-          From meal scheduling to inventory tracking, our platform empowers mess staff with smart tools to optimize operations, minimize waste, and improve service efficiency.
+          <b>Efficient Mess & Canteen Management</b>
+          <p>From meal scheduling to inventory tracking, our platform empowers mess staff with smart tools to optimize operations, minimize waste, and improve service efficiency.</p>
           </p>
           <button>Read More</button>
         </div>

@@ -2,7 +2,7 @@
 
 You can access the deployed project at:
 
-[Live Demo](https://messmate4u.netlify.app/)
+[Live Demo](https://messmate4u.netlify.app/](https://messmate4u.netlify.app/)
 
 ## Project Setup
 
